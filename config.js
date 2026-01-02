@@ -2,24 +2,24 @@ global.config = {
   // - PLATFORM SETTING -
   // Atur ke 'true' untuk mengaktifkan, 'false' untuk menonaktifkan
   enableTelegram: true,
-  enableDiscord: true,
+  enableDiscord: false,
   enableWhatsApp: true,
 
   // - BOT CONFIG -
-  telegramToken: "Your_telegram_token_here",
+  telegramToken: "8236409464:AAH0zOc5gR_lJLSgqo62WOGtw2vw5hdNqb8",
   discordToken: "YOUR_discord_token_here",
   discordClientId: "YOUR_discord_client_id_here",
-  whatsappNumber: "YOU_NUMBER_BOT", // example: 628123456789
+  whatsappNumber: "6283143694217", // example: 628123456789
   
   // - OWNER CONFIG -
-  ownerTelegram: "YOU_TELEGRAM_ID", // example: 123456789"",
+  ownerTelegram: "7858878920", // example: 123456789"",
   ownerDiscord: "YOU_DISCORD_ID", // example: 123456789012345678
-  ownerWhatsapp: "YOU_NUMBER", // example: 628123456789
+  ownerWhatsapp: "6283143694217", // example: 628123456789
 
   // - BOT SETTING -
   selfMode: false, // false = Public, true = Self
   prefix: ["/", "."],
-  ownerName: "Fathur",
+  ownerName: "HanzXD",
   botName: "Lilith Bot's",
 
   // - GEMINI API KEY -
